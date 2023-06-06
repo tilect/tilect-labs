@@ -1,4 +1,3 @@
-```
 # NIFTY TILES 001: Keyboard
 
 This code is an animation sketch using the p5.js library and SVG images. It renders tiles on a canvas and allows you to interact with them using keyboard inputs. The sketch supports features like adding and removing tiles, changing tile sizes, rotating tiles, changing background colors, saving images, and toggling the visibility of the background.
@@ -78,4 +77,3 @@ Feel free to experiment and make the animation suit your needs!
 ## License
 
 This code is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-```
