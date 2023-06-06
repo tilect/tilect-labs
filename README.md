@@ -2,7 +2,7 @@
 
 This repository contains a collection of Labs created by Tilect members. Each folder represents a different project that was used in Tilect's live events as basis or the full project.
 
-## About TileCT
+## About Tilect
 
 Tilect is a Phygital multiplatform and Cultural Association for learning, co-creating and sharing multidisciplinary audiovisual arts, with a decentralised perspective, aiming to protect and promote underground cultures.
 
